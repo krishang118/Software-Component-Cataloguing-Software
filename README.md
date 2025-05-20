@@ -1,1 +1,0 @@
-# Software-Component-Cataloguing-Software
