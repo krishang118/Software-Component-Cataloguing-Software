@@ -61,8 +61,6 @@ software/
  src/
     components/
        addcomponent/
-          addcomponent.js
-          addcomponent.css
        admin/
        adminlogin/
        allcomponents/
