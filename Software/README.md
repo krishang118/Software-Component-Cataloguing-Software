@@ -13,7 +13,7 @@ To run this project locally, follow these steps:
 
 ###  Prerequisites
 
-- Node.js and npm should be installed on your machine.
+Node.js and npm should be installed on your machine.
 
 ###  Installation
 
