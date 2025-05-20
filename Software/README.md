@@ -107,8 +107,4 @@ You may use `npm run build` and deploy the `build/` folder to your chosen hostin
 ## Contributing
 
 Contributions are welcome!
----
 
-##  License
-
-[MIT](LICENSE)
