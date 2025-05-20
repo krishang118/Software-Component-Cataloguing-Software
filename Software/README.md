@@ -56,7 +56,7 @@ To run this project locally, follow these steps:
 ##  Project Structure
 
 ```
-software-component-cataloguing-software/
+software/
  public/
  src/
     components/
