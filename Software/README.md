@@ -49,7 +49,7 @@ Node.js and npm should be installed on your machine.
    ```
 
 5. **Open in browser:**
-   Visit [http://localhost:3000](http://localhost:3000)
+   Visit [http://localhost:3000](http://localhost:3000).
 
 ---
 
