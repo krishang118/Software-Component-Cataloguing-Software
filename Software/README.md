@@ -56,7 +56,7 @@ Node.js and npm should be installed on your machine.
 ##  Project Structure
 
 ```
-software/
+Software/
  public/
  src/
     components/
