@@ -19,8 +19,8 @@ Node.js and npm should be installed on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/krishang118/software-component-cataloguing-software.git
-   cd software-component-cataloguing-software
+   git clone https://github.com/krishang118/Software-Component-Cataloguing-Software.git
+   cd Software-Component-Cataloguing-Software
    ```
 
 2. **Install dependencies:**
@@ -106,3 +106,6 @@ You may use `npm run build` and deploy the `build/` folder to your chosen hostin
 
 Contributions are welcome!
 
+## License
+
+Distributed under the MIT License.
