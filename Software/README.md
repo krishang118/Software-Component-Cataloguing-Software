@@ -51,8 +51,6 @@ Node.js and npm should be installed on your machine.
 5. **Open in browser:**
    Visit [http://localhost:3000](http://localhost:3000).
 
----
-
 ##  Project Structure
 
 ```
@@ -81,26 +79,11 @@ Software/
  README.md
 ```
 
----
-
 ##  Features
 
 -  User authentication with Firebase
 -  Add/Edit/Delete software components
 -  Search and filter components
-
----
-
-##  Deployment
-
-This app can be deployed on:
-- Firebase Hosting
-- Netlify
-- Vercel
-
-You may use `npm run build` and deploy the `build/` folder to your chosen hosting service.
-
----
 
 ## Contributing
 
